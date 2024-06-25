@@ -1,0 +1,2 @@
+.. toctree::
+    component_1
